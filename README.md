@@ -1,7 +1,18 @@
-codeclub
+Code Club
 ========
 
-####Make a Video Game
+####Video Game - Play, Fork, Build, Deploy and Play again!
+
+[Scratch] (http://scratch.mit.edu/) - Scratch Language (no downloads required)
+
+[Khan Academy] (https://www.khanacademy.org/computing/cs) - Javascript Language
+
+[Pygame] (http://www.pygame.org/news.html) - Python Language
+
+
+####Android App - Make, Test, and Deploy 
+
+[MIT Android App Inventor] (http://appinventor.mit.edu/explore/) | [Cool projects from Hour of Code] (http://appinventor.mit.edu/explore/hour-of-code.html)
 
 
 ####Text Editors
@@ -14,7 +25,7 @@ codeclub
 [Gedit] (https://wiki.gnome.org/Apps/Gedit) (Linux)
 
 
-####Additional Resources
+####Free Learning Opportunities
 
 [JavaScript Guide] (https://docs.google.com/a/scripted.org/document/d/1PJsNEumJU1Qe32LVZWgNkecyCt1LXFIoYLhVn1hm4Zc/edit?pli=1#) from [ScriptEd] (https://github.com/ScriptEdcurriculum)
 
@@ -23,6 +34,10 @@ codeclub
 [Codecademy] (http://www.codecademy.com/)
 
 [Khan Academy] (https://www.khanacademy.org/cs)
+
+[DIY.org] (https://diy.org/featured)
+
+[Learn Scratch] (http://learnscratch.org/) - video courses to learn Scratch 
 
 [Code School] (https://www.codeschool.com/) free classes available 
 
