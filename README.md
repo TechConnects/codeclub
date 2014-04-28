@@ -35,6 +35,8 @@ Code Club
 
 [Khan Academy] (https://www.khanacademy.org/cs)
 
+[Learn Python the Hard Way] (http://learnpythonthehardway.org/book/)
+
 [DIY.org] (https://diy.org/featured)
 
 [Learn Scratch] (http://learnscratch.org/) - video courses to learn Scratch 
