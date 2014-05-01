@@ -56,7 +56,7 @@ Code Club
 
 [Coder's Guide] (http://www.youtube.com/user/CodersGuide)
 
-[The NewBoston] (http://www.youtube.com/user/thenewboston)
+[The NewBoston] (http://www.youtube.com/user/thenewboston) - Android, C (# and ++), Java, JavaScript, jQuery, PHP, Python, Ruby and More
 
 [Raspberry Pi IV Beginners] (http://www.youtube.com/user/RaspberryPiBeginners)
 
