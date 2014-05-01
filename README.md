@@ -52,11 +52,13 @@ Code Club
 [Stack Overflow] (http://stackoverflow.com/) support forum
 
 ####Learn Coding on YouTube
-[Free Courses] (http://www.youtube.com/user/TheFreecourses)
+[Free Courses] (http://www.youtube.com/user/TheFreecourses) - Pretty much anything you can think of
 
 [Coder's Guide] (http://www.youtube.com/user/CodersGuide)
 
 [The NewBoston] (http://www.youtube.com/user/thenewboston) - Android, C (# and ++), Java, JavaScript, jQuery, PHP, Python, Ruby and More
+
+[PHP Academy] (http://www.youtube.com/user/phpacademy) - PHP
 
 [Raspberry Pi IV Beginners] (http://www.youtube.com/user/RaspberryPiBeginners)
 
