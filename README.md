@@ -54,15 +54,15 @@ Code Club
 ####Learn Coding on YouTube
 [Free Courses] (http://www.youtube.com/user/TheFreecourses) - Pretty much anything you can think of
 
-[Coder's Guide] (http://www.youtube.com/user/CodersGuide)
+[Coder's Guide] (http://www.youtube.com/user/CodersGuide) - Web Coding
 
 [The NewBoston] (http://www.youtube.com/user/thenewboston) - Android, C (# and ++), Java, JavaScript, jQuery, PHP, Python, Ruby and More
 
 [PHP Academy] (http://www.youtube.com/user/phpacademy) - PHP
 
-[Raspberry Pi IV Beginners] (http://www.youtube.com/user/RaspberryPiBeginners)
+[Raspberry Pi IV Beginners] (http://www.youtube.com/user/RaspberryPiBeginners) - Raspberry Pi
 
-[Raspberry Pi Tutorials] (http://www.youtube.com/user/RaspberryPiTutorials)
+[Raspberry Pi Tutorials] (http://www.youtube.com/user/RaspberryPiTutorials) - Raspberry Pi project tutorials
 
 
 
