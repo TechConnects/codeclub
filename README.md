@@ -54,6 +54,14 @@ Code Club
 ####Learn Coding on YouTube
 [Free Courses] (http://www.youtube.com/user/TheFreecourses)
 
+[Coder's Guide] (http://www.youtube.com/user/CodersGuide)
+
+[The NewBoston] (http://www.youtube.com/user/thenewboston)
+
+[Raspberry Pi IV Beginners] (http://www.youtube.com/user/RaspberryPiBeginners)
+
+[Raspberry Pi Tutorials] (http://www.youtube.com/user/RaspberryPiTutorials)
+
 
 
 ####Up for a challenge?  
